@@ -4,7 +4,7 @@
 **GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
 {% endhint %}
 
-## d
+## Link To Default Alive Target Completion
 
 {% embed url="https://metabase.bonton.app/public/question/01340bb7-c620-415e-a034-a351256a6a17" %}
 
